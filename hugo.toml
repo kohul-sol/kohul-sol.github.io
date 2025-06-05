@@ -13,11 +13,12 @@ tag = 'tags'
 # Meta description
 description = "Alina Alexandre's Portfolio"
 showFooter = true
-footerContent = "Made with Hugo, theme by tomfran, all content by Alina Alexandre unless mentioned otherwise"
+footerContent = "Made with [Hugo](https://gohugo.io), [theme by tomfran](https://github.com/tomfran/typo), all content by Alina Alexandre unless mentioned otherwise"
+
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = "eink"
 hideHeader = false
 
 # Intro on main page, content is markdown
@@ -35,8 +36,8 @@ listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 [params.breadcrumbs]
-enabled = true
-showCurrentPage = true
+enabled = false
+showCurrentPage = false
 home = "Home"
 
 # Social icons
