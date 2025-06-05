@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'alina-alexandre.xyz'
 languageCode = 'en-us'
-title = 'My website'
-theme = 'typo'
+title = "Alina Alexandre"
+
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
@@ -11,7 +11,9 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Alina Alexandre's Portfolio"
+showFooter = true
+footerContent = "Made with Hugo, theme by tomfran, all content by Alina Alexandre unless mentioned otherwise"
 
 # Appearance settings
 theme = 'auto'
@@ -19,15 +21,12 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hello world!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I am in love with my wife.
 """
 
-# Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+
 
 # Lists parameters
 paginationSize = 100
@@ -42,11 +41,11 @@ home = "Home"
 
 # Social icons
 [[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+name = "gmail"
+url = "mailto:alinaalexandre03@gmail.com?subject=&body="
 
 [[params.social]]
-name = "medium"
+name = "discord"
 url = "https://medium.com/@user"
 
 [[params.social]]
@@ -59,12 +58,13 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
-
-[[params.menu]]
 name = "about"
 url = "/about"
+
+[[params.menu]]
+name = "portfolio"
+url = "/portfolio"
+
 
 # Syntax highlight on code blocks
 [markup]
