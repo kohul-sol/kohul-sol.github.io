@@ -1,7 +1,7 @@
 baseURL = 'alina-alexandre.xyz'
 languageCode = 'en-us'
 title = "Alina Alexandre"
-
+theme = 'typo'
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
