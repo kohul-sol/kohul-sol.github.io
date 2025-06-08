@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Detailed description of Alina Alexandre"
+description: "About me"
 hideBackToTop: true
 hidePagination: true
 ---
@@ -25,6 +25,8 @@ My mastery of certain skills will be rated from 1-5:
 *Knowledge of coding and content creation within the Unity game engine.*
 - **Coding** (3/5)
 *Knowledge of computer sciences.*
+- **Writing** (3/5)
+*Knowledge of how to build a compelling narrative, scriptwriting, storyboarding, narrative design, etc.*
 - **3D art** (2/5)
 *Development of 3D assets, optimization, etc.*
 - **2D vector graphics** (2/5)
@@ -39,11 +41,11 @@ My mastery of certain skills will be rated from 1-5:
 *Top 3 games: Death Stranding, Signalis, Metal Gear Solid 4*
 - Music
 - Literature
-- Bass and Electric Guitar
+- Bass Guitar
 - Cars and motorcycles
 - Retro console repair
 ## Contacts
 - **Email:** *alinaalexandre03@gmail.com*
 
 
-## [Download my resume here.](downloads/test.jpg)
+## [Download my resume here.](downloads/alina.pdf)

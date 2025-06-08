@@ -1,7 +1,7 @@
 baseURL = 'alina-alexandre.xyz'
 languageCode = 'en-us'
 title = "Alina Alexandre"
-theme = 'typo'
+theme = ["hugo-video", "typo"]
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
@@ -24,7 +24,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hello!'
 homeIntroContent = """
-My name is Alina Beleza Alexandre (she/her) and I am a junior game designer based in Portugal, with experience in design, coding, level design, motion graphics, image and video editing, 3D art, sound design and 2D vector graphics. This website serves to introduce myself, my resume, and my previous work, which are available in the pages listed above.
+My name is Alina Beleza Alexandre (she/her) and I am a junior game designer based in Portugal, with experience in design, coding, writing and narrative design, scriptwriting, level design, motion graphics, image and video editing, 3D art, sound design and 2D vector graphics. This website serves to introduce myself, my resume, and my previous work, which are available in the pages listed above.
 If you wish to contact me, you can use the links below. Thank you!
 
 """
@@ -48,12 +48,8 @@ name = "gmail"
 url = "mailto:alinaalexandre03@gmail.com?subject=&body="
 
 [[params.social]]
-name = "discord"
-url = "https://www.youtube.com/watch?v=XF5fxLJ6Zfw"
-
-[[params.social]]
 name = "github"
-url = "https://www.youtube.com/watch?v=XF5fxLJ6Zfw"
+url = "https://github.com/kohul-sol"
 
 # Main menu pages
 [[params.menu]]
@@ -67,10 +63,6 @@ url = "/about"
 [[params.menu]]
 name = "portfolio"
 url = "/portfolio"
-
-[[params.menu]]
-name = "resume"
-url = "/resume"
 
 # Syntax highlight on code blocks
 [markup]
