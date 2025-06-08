@@ -1,4 +1,4 @@
-baseURL = 'alina-alexandre.xyz'
+baseURL = 'https://alina-alexandre.xyz/'
 languageCode = 'en-us'
 title = "Alina Alexandre"
 theme = ["hugo-video", "typo"]
