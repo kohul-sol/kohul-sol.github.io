@@ -9,6 +9,9 @@ googleAnalytics = "G-xxxxxxxxx"
 [taxonomies]
 tag = 'tags'
 
+[params.meta]
+favicon = false
+
 [params]
 # Meta description
 description = "Alina Alexandre's Portfolio"
