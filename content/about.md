@@ -6,7 +6,7 @@ hidePagination: true
 ---
 
 ## Summary
-My name is Alina Beleza Alexandre (she/her) and I am a junior game designer with a degree in Game Design. I hail from Viseu, Portugal and have studied in both Portugal and Finland. I am passionate about videogame developemt and have been around games all my life. A summary of my education can be found below.
+My name is Alina Beleza Alexandre (she/her) and I am a junior game designer with a degree in Game Design. I hail from Viseu, Portugal and have studied in both Portugal and Finland. I am passionate about videogame development and have been around games all my life. A summary of my education can be found below.
 
 ## Education
 - **STEM** at Escola Alves Martins, *2018 - 2021* 
@@ -14,9 +14,9 @@ My name is Alina Beleza Alexandre (she/her) and I am a junior game designer with
 - **Bachelor of Culture and Arts Game Design** at XAMK (South-Eastern Finland University of Applied Sciences), *2024 (Erasmus)*
 
 ## Skills
-My mastery of certain skills will be rated from 1-5:
+My mastery of certain skills is be rated from 1-5:
 - **Design** (4/5)
-*Design of games, including mechanics, resources, planning, etc.*
+*Knowledge of game design and their systems, including mechanics, resources, planning, etc.*
 - **Motion Design** (4/5)
 *Knowledge of motion graphics, video editing, programs like Premiere and After Effects, etc.*
 - **Level Design** (4/5)
