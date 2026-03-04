@@ -10,13 +10,15 @@ My name is Alina Beleza Alexandre (she/her) and I am a junior game designer with
 
 ## Education
 - **STEM** at Escola Alves Martins, *2018 - 2021* 
-- **Bachelor's in Game Design** at IPB (Instituto Politécnico de Bragança), *2021 - 2025* 
+- **Bachelor's in Game Design** at IPB (Instituto Politécnico de Bragança), *2021 - 2026* 
 - **Bachelor of Culture and Arts Game Design** at XAMK (South-Eastern Finland University of Applied Sciences), *2024 (Erasmus)*
 
 ## Skills
 My mastery of certain skills is be rated from 1-5:
 - **Design** (4/5)
 *Knowledge of game design and their systems, including mechanics, resources, planning, etc.*
+- **Sound Design** (4/5)
+*Development, synthesis, recording and coding of sound effects, jingles and voice clips.*
 - **Motion Design** (4/5)
 *Knowledge of motion graphics, video editing, programs like Premiere and After Effects, etc.*
 - **Level Design** (4/5)
@@ -41,7 +43,8 @@ My mastery of certain skills is be rated from 1-5:
 *Top 3 games: Death Stranding, Signalis, Metal Gear Solid 4*
 - Music
 - Literature
-- Bass Guitar
+- Guitar
+- Photography
 - Cars and motorcycles
 - Retro console repair
 ## Contacts
