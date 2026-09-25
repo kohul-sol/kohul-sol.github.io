@@ -6,6 +6,10 @@ hidePagination: true
 hideBreadcrumbs: true
 author: "Work made during my academic career."
 ---
+
+### [Project Datura *(2026)*](datura) 
+3º year stealth game project.
+
 ### [Farmy *(2024)*](farmy) 
 Small mobile tower defense game created during my time at XAMK by a small team I was a part of.
 
