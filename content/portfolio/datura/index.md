@@ -27,9 +27,9 @@ Below is a small demo reel showing the sound effects I made along with the game'
 ### 2D UI
 2D UI assets were made in Illustrator, then exported to fit the game's UI. I started out making standard white sillouettes of the game's items, but after introducing non lethal firearms and different types of item, I decided to color code them based on type. Inspired by Metal Gear Solid 2, I made lethal weapons red and non lethal weapons blue. For items, general items were made blue, healing items were made green, and ammo/weapon attachments were made red.
 
-[sprites](datura/sprites.png)
+![sprites](sprites.png)
 
 ### 3D 
 For 3D assets I tried to keep things simple in order to both use my time more efficiently and also to maintaing a more stylized PS2 like aesthetic. Most of the game's models were based off of primitives, and the textures were made in Asperite to give them a pixel art like look similar to the game Signalis.
 
-[3dg](datura/3dgif1.gif)
+![3dg](3dgif1.gif)
